@@ -10,8 +10,8 @@ pipeline {
     }
 
     environment {
-        DEV_PROJECT = "youruser-books-dev"
-        STAGE_PROJECT = "youruser-books-stage"
+        DEV_PROJECT = "p00268-books-dev"
+        STAGE_PROJECT = "p00268-books-stage"
         APP_GIT_URL = "https://github.com/dragonsworn7/DO288-apps"
         NEXUS_SERVER = "http://nexus-common.apps.ap45.prod.nextcle.com/repository/nodejs"
 
